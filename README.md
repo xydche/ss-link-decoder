@@ -1,4 +1,4 @@
-安卓新版Shadowsocks客户端(包名：com.github.shadowsocks)已不支持NAT模式，用着不爽，所以转到SSR来用。一些配置需要解析出密码和加密方式，撸了这个脚本方便自己使用，仅支持**python3**。
+安卓新版Shadowsocks客户端(包名：com.github.shadowsocks)已不再支持NAT模式，用着不爽，所以转到SSR来用。一些配置需要解析出密码和加密方式，撸了这个脚本方便自己使用，仅支持**python3**。
 ***
 # 用法
 ```bash
